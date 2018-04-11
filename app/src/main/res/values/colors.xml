@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#779DB0</color>
+    <color name="colorPrimaryDark">#5D8899</color>
+    <color name="colorAccent">#779DB0</color>
+    <color name="Yaroslavl">#E2E9EF</color>
+    <color name="Vladimir">#D6D4E1</color>
+    <color name="Suzdal">#A1A6BA</color>
+    <color name="Kostroma">#779DB0</color>
+    <color name="BackCol">#7B8890</color>
+</resources>

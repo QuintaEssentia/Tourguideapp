@@ -1,0 +1,209 @@
+<resources>
+    <string name="app_name">Explore Golden Ring</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="address">address</string>
+    <string name="place">place</string>
+    <string name="descr">description</string>
+    <string name="category">category</string>
+    <string name="goTo">google.navigation:q=</string>
+
+
+    <string name="category_yaroslavl">Yaroslavl</string>
+    <string name="category_suzdal">Suzdal</string>
+    <string name="category_kostroma">Kostroma</string>
+    <string name="category_vladimir">Vladimir</string>
+
+    <!--Yaroslavl item name -->
+
+    <string name="yar_MonasterySav_name">Monastery of the Transfiguration of the Saviour</string>
+    <string name="yar_JohnBaptist_name">John the Baptist Church at Tolchkovo</string>
+    <string name="yar_CathTrans_name">Cathedral of the Transfiguration</string>
+    <string name="yar_ArtGov_name">Yaroslavl Art Museum (Governor\'s House)</string>
+    <string name="yar_ChurchElijah_name">Church of Elijah the Prophet</string>
+    <string name="yar_ArtMetro_name">Yaroslavl Art Museum (Metropolitan Palace)</string>
+    <string name="yar_BellTower_name">Bell Tower</string>
+    <string name="yar_AnnCath_name">Annunciation Cathedral</string>
+
+
+    <!-- Yaroslavl item address -->
+
+    <string name="yar_MonasterySav_adr">Yaroslavl, Bogoyavlenskaya pl. 25</string>
+    <string name="yar_JohnBaptist_adr">Yaroslavl, 2-ya Zakotoroslnaya nab 69</string>
+    <string name="yar_CathTrans_adr">Yaroslavl, Bogoyavleniya pl. 25 building 2</string>
+    <string name="yar_ArtGov_adr">Yaroslavl, Volzhskaya nab 23</string>
+    <string name="yar_ChurchElijah_adr">Yaroslavl, Sovetskaya pl 7</string>
+    <string name="yar_ArtMetro_adr">Yaroslavl, Volzhskaya nab 1</string>
+    <string name="yar_BellTower_adr">Yaroslavl, Bogoyavleniya pl. 25 building 2</string>
+    <string name="yar_AnnCath_adr">Yaroslavl, Kotoroslnaya nab 2/1</string>
+
+
+    <!-- Yaroslavl item description -->
+
+    <string name="yar_MonasterySav_des">Founded in the 12th century, the Unesco-listed Monastery of the
+        Transfiguration of the Saviour was one of Russia’s richest and best-fortified monasteries by the 16th century.
+        The oldest surviving structures, dating from 1516, are the Holy Gate near the main entrance by the river and the Cathedral of the Transfiguration.
+        A bird\'s-eye view of Yaroslavl and its rivers can be had by climbing up to the top of the cathedral's bell tower.
+        Other buildings house exhibitions on history, ethnography, icons and the Treasures of Yaroslavl Exhibition,
+        featuring works of gold, silver and precious gems dating back to the 17th century.</string>
+    <string name="yar_JohnBaptist_des">It’s a shame that dingy industrial surroundings discourage most people from visiting Yaroslavl’s
+        largest and most unique church – you may recognise it from the 1000-rouble currency note. Protected by Unesco,
+        the red-brick structure (built 1671–87) boasts a staggering 15 green-coloured cupolas and some of the most extensive series of frescoes in the Orthodox world.
+        It\'s located on the southern bank of the Kotorosl, by the second bridge.
+        The church is a 3km (10-minute) car or taxi ride from the centre. By public transport from Bogoyavlenskaya pl,
+        take a southbound marshrutka (fixed-route minibus) 87 or bus 19k for four stops, disembarking at the ul Karabulina stop.
+        Walk back towards the bridge and turn left at the corner; walk north towards the river and then west to the church (about 500m).
+        Note that the church is closed on rainy days to protect the frescoes from moisture.</string>
+    <string name="yar_CathTrans_des">This 16th-century cathedral (built 1516) is the oldest free-standing building in Yaroslavl;
+        inside are beautiful frescoes from the time of its construction. Designed by an Italian architect, the church combines traditional Russian with Italianate styles,
+        such as its arched loggia. You can get a good view of Yaroslavl from its bell tower.
+        Note that the cathedral is closed to the public on rainy days to protect its delicate frescoes from moisture.</string>
+    <string name="yar_ArtGov_des">The main branch of the city\'s art museum, housed in the restored former governors\' mansion (built 1823),
+        showcases two permanent exhibits on 18th- to 20th-century Russian art (individual or joint ticket available), with a large hall dedicated to Impressionist Konstantin Korovin;
+        audio guides are available in English. Temporary exhibits – recent ones included art of the post-revolutionary 20th century – have their own admission prices.</string>
+    <string name="yar_ChurchElijah_des">The exquisite church that dominates Sovetskaya pl was built by some prominent local fur dealers in 1650. It has some of the Golden Ring’s brightest frescoes,
+        done by the ubiquitous painter Gury Nikitin of Kostroma and his school, and detailed exterior tiles. The church is closed on rainy days to protect the frescoes from moisture.</string>
+    <string name="yar_ArtMetro_des">The 17th-century former chambers of the metropolitan showcase icons and other religious art from the 13th to 18th centuries.
+        Temporary exhibits have separate admission prices; a recent one featured women\'s fashion from 1890 to 1910.</string>
+    <string name="yar_BellTower_des">Climb to the top of the bell tower of the Cathedral of the Transfiguration for excellent views over Yaroslavl and the confluence of its two rivers.</string>
+    <string name="yar_AnnCath_des">The city\'s main cathedral originally dated from 1215, but was blown up by the Bolsheviks in 1937.
+        What you see now is a modern replica erected for Yaroslav’s millennium celebrations in 2010. In front of it, a stone-slab monument marks the spot where Prince Yaroslav founded the city in 1010.
+        Past the cathedral, the new Strelka Park stretches right onto the tip of land between the Volga and the Kotorosl Rivers, where the Yaroslavl Millennium Monument was opened in 2010.</string>
+
+    <!-- Suzdal item name -->
+
+    <string name="suz_SaviourMon_name">Saviour Monastery of St Euthymius</string>
+    <string name="suz_Kremlin_name">Kremlin</string>
+    <string name="suz_WoodArch_name">Museum of Wooden Architecture and Peasant Life</string>
+    <string name="suz_NatVirg_name">Nativity of the Virgin Cathedral</string>
+    <string name="suz_TorgPl_name">Torgovaya Ploshchad</string>
+    <string name="suz_HolyIntConv_name">Holy Intercession Convent</string>
+    <string name="suz_ChurchAssump_name">Church of the Assumption of the Mother of God</string>
+
+    <!-- Suzdal item address -->
+
+    <string name="suz_SaviourMon_adr">Suzdal, Lenina ul 135/8</string>
+    <string name="suz_Kremlin_adr">Suzdal, Kremlevskaya ul 27</string>
+    <string name="suz_WoodArch_adr">Suzdal, Pushkarskaya ul 27B</string>
+    <string name="suz_NatVirg_adr">Suzdal, Suzdal kremlin, ul Kremlyovskaya</string>
+    <string name="suz_TorgPl_adr">Suzdal, Torgovaya Ploshchad</string>
+    <string name="suz_HolyIntConv_adr">Suzdal, Pokrovskaya ul</string>
+    <string name="suz_ChurchAssump_adr">Suzdal, ul Kremlyovskaya 8</string>
+
+    <!-- Suzdal item description -->
+
+    <string name="suz_SaviourMon_des">Founded in the 14th century to protect the town’s northern entrance,
+        Suzdal\’s biggest monastery grew mighty in the 16th and 17th centuries after Vasily III,
+        Ivan the Terrible and the noble Pozharsky family funded impressive new stone buildings and made large land and property acquisitions.
+        It was girded with its great brick walls and towers in the 17th century.</string>
+    <string name="suz_Kremlin_des">The grandfather of the Moscow Kremlin, this citadel was the 12th-century base of Prince Yury Dolgoruky,
+        who ruled the vast northeastern part of Kyivan Rus (and, among other things, founded a small outpost that would eventually become the Russian capital).
+        The 1.4km-long earthen ramparts of Suzdal\’s kremlin enclose a few streets of houses and a handful of churches, as well as the main cathedral group on ul Kremlyovskaya.</string>
+    <string name="suz_WoodArch_des">This open-air museum across the river from Suzdal\'s kremlin offers a fascinating glimpse into the traditional lives of rural folk in this area.
+        Besides log houses, windmills, a barn, and lots of tools and handicrafts, its highlights are the 1756 Transfiguration Church (Преображенская церковь)
+        and the simpler 1776 Resurrection Church (Воскресенская церковь). There\'s a similar museum in Kostroma, too.</string>
+    <string name="suz_NatVirg_des">The Nativity of the Virgin Cathedral, whose blue domes spangled with gold dominate the front courtyard of the Suzdal kremlin,
+        was founded in the 1220s. Only its richly carved lower section is original white stone, however; the rest is 16th-century brick.
+        The inside is sumptuous, with 13th- and 17th-century frescoes and 13th-century damascene (gold on copper) west and south doors.</string>
+    <string name="suz_TorgPl_des">Suzdal’s Torgovaya pl (Market Sq) is dominated by the pillared Trading Arcades (Торговые ряды; 1806–11) along its western side.
+        There are several churches in the immediate vicinity, including the 1739 Kazan Church (Казанская церковь) and the 1720 Resurrection Church (Воскресенская церковь)
+        right on the square; the latter's hours are irregular but if it\'s open you can take the precarious climb to the top of the bell tower to be rewarded with wonderful
+        views of Suzdal\’s gold-domed skyline.</string>
+    <string name="suz_HolyIntConv_des">It\'s a classic Suzdal picture: the whitewashed beauty of monastic walls surrounded by green meadows on the banks of the lazily meandering river.
+        Inside are beds of brightly coloured flowers tended by the nuns, who live in wooden cottages left over from a rustic hotel built here when the convent was closed after the revolution
+        (it was revived in 1992). Founded in 1364, this convent was originally a place of exile for the unwanted wives of tsars.</string>
+    <string name="suz_ChurchAssump_des">This small red church up the street from the kremlin features a beautiful icon of the Virgin Mary created by 16th-century artist Fyodor Zubov,
+        as well as a large gold-and-glass coffin containing the relics of St Arseny (1550–1625), the Archbishop of Suzdal.</string>
+
+
+    <!-- Kostroma item name -->
+
+    <string name="kos_MonIpaty_name">Monastery of St Ipaty</string>
+    <string name="kos_MuseumWood_name">Museum of Wooden Architecture</string>
+    <string name="kos_SusanPl_name">Susaninskaya Ploshchad</string>
+    <string name="kos_Guardhouse_name">Guardhouse</string>
+    <string name="kos_MonEpiphany_name">Monastery of the Epiphany</string>
+
+    <!-- Kostroma item address -->
+
+    <string name="kos_MonIpaty_adr">Kostroma, Prosveshheniya ul, 1,</string>
+    <string name="kos_MuseumWood_adr">Kostroma, ul Prosveshcheniya 1b</string>
+    <string name="kos_SusanPl_adr">Kostroma, Susaninskaya Ploshchad</string>
+    <string name="kos_Guardhouse_adr">Kostroma, ul Lenina 1/2</string>
+    <string name="kos_MonEpiphany_adr">Kostroma, ul Simanovskogo 26</string>
+
+    <!-- Kostroma item descriptiom -->
+
+    <string name="kos_MonIpaty_des">Named after St Ipaty (Hypatios) of Gangara, this monastery at the confluence of the Volga and Kostroma Rivers was founded in the 1330s by Chet,
+        a Tatar prince who converted to Christianity. In 1590 his descendant, Tsar Boris Godunov, built its Trinity Cathedral (Троицкий собор),
+        which contains more than 80 old frescoes by a school of 17th-century Kostroma painters, as well as some 20th-century additions.
+        (The fresco in the southern part of the sanctuary depicts Chet’s baptism by St Ipaty.)</string>
+    <string name="kos_MuseumWood_des">Essentially a large riverside park, this open-air museum comprises a large collection of old, rural wooden buildings moved here for preservation,
+        including peasant families\' houses, cleverly engineered windmills and churches – many built without nails. Some buildings display various artefacts of rural life,
+        and the grounds (which are open an hour later than the exhibits) are pleasant for strolling, listening to the chirping of resident frogs and admiring the handiwork of the artists.</string>
+    <string name="kos_SusanPl_des">Picturesque Susaninskaya pl was built under Catherine the Great’s patronage after a fire in 1773 (based on, as legend says, the shape of her fan)
+        and nicely revamped for the Romanov dynasty\'s 400-year anniversary in 2013. Its immense Italianate Trading Arcades used to house hundreds of shops selling goods shipped along the Volga in its heyday,
+        some of which are still represented in its street names (flour, tobacco, fish, spices and milk). Today it houses Kostroma\'s central market.</string>
+    <string name="kos_Guardhouse_des">Constructed in 1826, this small guardhouse was originally a brig to hold arrested soldiers until trial.
+        During the Soviet era it was used as offices for various institutions, including a library and a registry office.
+        Today it belongs to the Kostroma Museum Reserve and houses three separate exhibits on military history, with displays of weapons and uniforms (from both Russia and other countries)
+        from the medieval era to modern times.</string>
+    <string name="kos_MonEpiphany_des">The Monastery of the Epiphany is now the Archbishop of Kostroma\’s residence. The large cathedral in this 14th- to 19th-century complex is the city\’s main working church.
+        The 13th-century icon of Our Lady of St Theodore, on the right-hand side of the iconostasis, is supposedly the source of many miracles.</string>
+
+    <!-- Vladimir item name -->
+
+    <string name="vla_AssumpCath_name">Assumption Cathedral</string>
+    <string name="vla_OldVladMus_name">Old Vladimir Museum</string>
+    <string name="vla_CathStDmitry_name">Cathedral of St Dmitry</string>
+    <string name="vla_GeorgUl_name">Georgievskaya Ulitsa</string>
+    <string name="vla_HisMus_name">History Museum</string>
+    <string name="vla_GoldGate_name">Golden Gate</string>
+    <string name="vla_CrysLacEm_name">Crystal, Lacquer Miniatures and Embroidery Museum</string>
+    <string name="vla_SobPl_name">Sobornaya Ploschad</string>
+
+
+    <!-- Vladimir item address -->
+
+    <string name="vla_AssumpCath_adr">Vladimir, Bloshaya Moskovskaya ul 56</string>
+    <string name="vla_OldVladMus_adr">Vladimir, ul Kozlov tup</string>
+    <string name="vla_CathStDmitry_adr">Vladimir, Bolshaya Moskovskaya ul 60</string>
+    <string name="vla_GeorgUl_adr">Vladimir, Georgievskaya ul</string>
+    <string name="vla_HisMus_adr">Vladimir, Bolshaya Moskovskaya ul 64</string>
+    <string name="vla_GoldGate_adr">Vladimir, Bolshaya Moskovskaya ul 1</string>
+    <string name="vla_CrysLacEm_adr">Vladimir, Dvoryanskaya ul 2</string>
+    <string name="vla_SobPl_adr">Vladimir, Sobornaya pl</string>
+
+    <!-- Vladimir item description -->
+
+    <string name="vla_AssumpCath_des">Set dramatically high above the Klyazma River, this simple but majestic piece of pre-Mongol architecture is the legacy of Prince Andrei Bogolyubsky,
+        the man who began shifting power from Kyiv to northeastern Rus (which eventually evolved into Muscovy). A white-stone version of Kyiv’s brick Byzantine churches,
+        the cathedral was constructed from 1158 to 1160, though it was rebuilt and expanded after a fire in 1185. It was added to Unesco's World Heritage List in 1992.</string>
+    <string name="vla_OldVladMus_des">This red-brick former water tower contains a multistorey exhibit of everyday objects from Vladimir\'s history (no English signage);
+        the display of old clocks and stopwatches is among the most interesting. But follow the curving staircase all the way up to find the real draw here:
+        the observation deck, which offers magnificent 360-degree views of Vladimir, with the Klyazma River curling lazily off into the distance and gold church domes set against the surrounding blue sky and green fields.</string>
+    <string name="vla_CathStDmitry_des">Built between 1193 and 1197, this exquisite, Unesco-listed white-stone cathedral represents the epitome of Russian stone carving.
+        The attraction here is the cathedral’s exterior walls, which are covered in an amazing profusion of images.
+        At their top centre, the north, south and west walls all show King David bewitching the birds and beasts with music.</string>
+    <string name="vla_GeorgUl_des">This pedestrian-only street curving southwest from the main strip was lovingly recreated in 2015 as a brick-paved thoroughfare from the old days,
+        dotted with souvenir stores, whimsical bronze statues of 19th-century locals and working water pumps; at its far end is the former water tower.
+        It\'s a lovely place for a stroll – don't miss the broad viewing terraces at the eastern end, which offer stunning views of Assumption Cathedral (especially gorgeous floodlit at night).</string>
+    <string name="vla_HisMus_des">This museum displays many remains and reproductions of the ornamentation from Vladimir\’s two cathedrals as part of an extensive exhibition covering
+        the history of the town from Kyivan princes to the 1917 revolution. Particularly interesting are the artefacts upstairs, including a remarkable keyboardless typewriter from 1905.
+        The red-brick edifice was purpose-built in 1902.</string>
+    <string name="vla_GoldGate_des">In the 1160s Andrei Bogolyubsky built five defensive gates to guard his city; only this former western entrance survives.
+        It was later restored and expanded under Catherine the Great. Up the narrow stone staircase, a military museum displays weapons and armour from the 1200s through WWII
+        (plus a 1970s cosmonaut suit); the centrepiece is a slightly fusty diorama of Vladimir being ravaged by Mongols in 1238, set to flashing lights and dramatic narration
+        (English version available upon request).</string>
+    <string name="vla_CrysLacEm_des">Housed in the former Old Believers\' Trinity Church (1916), this museum features the crafts of Gus-Khrustalny and other nearby towns.
+        The 1st floor displays a huge variety of crystal pieces (old and new), while upstairs is a collection of embroidered cloth and 19th-century lacquer boxes painted
+        with scenes from Russian history. Keep an eye out for the particularly detailed 10-piece matryoshka (nesting doll) that\'s over a century old.
+        A basement shop has a decent selection of crystal for sale.</string>
+    <string name="vla_SobPl_des">The expanse of \'Cathedral Sq\' is at the heart of downtown Vladimir.
+        Its 22m-tall monument was built for the 850th anniversary of the town\'s founding.
+        Three bronze statues at each side of the obelisk represent past and present: a warrior of Rus looks west to the Golden Gate; an architect gazes southward at the Assumption Cathedral;
+        and a modern-day worker looks east towards the town\'s industrial area.</string>
+
+
+
+</resources>
